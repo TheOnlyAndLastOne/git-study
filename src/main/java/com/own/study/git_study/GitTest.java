@@ -24,4 +24,8 @@ public class GitTest {
     public void rebase_i5(){
 
     }
+
+    public void rebase_i6(){
+
+    }
 }
