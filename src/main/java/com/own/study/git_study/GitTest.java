@@ -5,4 +5,7 @@ package com.own.study.git_study;
  * @date 8/7/2020 4:39 PM
  */
 public class GitTest {
+    public void update002(){
+        System.out.println("update002");
+    }
 }
