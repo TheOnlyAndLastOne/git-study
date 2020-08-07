@@ -12,4 +12,16 @@ public class GitTest {
     public void update002(){
         System.out.println("update002");
     }
+
+    public void rebase_i1(){
+
+    }
+
+    public void rebase_i4(){
+
+    }
+
+    public void rebase_i5(){
+
+    }
 }
