@@ -8,4 +8,8 @@ public class GitTest {
     public void update001(){
         System.out.println("update001");
     }
+
+    public void update001_more(){
+        System.out.println("update001_more");
+    }
 }
